@@ -3,7 +3,6 @@
 ### Output Gif
 
 ![Output.gif](Output.gif)
-![Output.mp4](Output.mp4)
 
 ### Flutter Packages Used
 
