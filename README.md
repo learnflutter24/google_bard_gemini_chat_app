@@ -1,8 +1,8 @@
 # google_bard_gemini_chat_app
 
-### Output Video
+### Output Gif
 
-[Output.mp4](Output.mp4)
+[Output.mp4](Output.gif)
 
 ### Flutter Packages Used
 
