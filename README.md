@@ -2,7 +2,7 @@
 
 ### Output Gif
 
-[Output.mp4](Output.gif)
+[Output.gif](Output.gif)
 
 ### Flutter Packages Used
 
