@@ -15,7 +15,7 @@ class _ChatBotScreenState extends State<ChatBotScreen> {
   final textController = TextEditingController();
   final formKey = GlobalKey<FormState>();
 
-  final apiKey = 'AIzaSyC38wegJI4lw29sRvt9NcZwyqOX3X5Qgls';
+  final apiKey = 'YOUR-API-KEY';
   final messages = [MessageModel(true, 'Hi')];
   bool isBotTyping = false;
 
